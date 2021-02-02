@@ -1,2 +1,2 @@
 # response_validator
-validate response legel by swagger api doc
+validate response legal by swagger api doc
